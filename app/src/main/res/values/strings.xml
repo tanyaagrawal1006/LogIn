@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Log In</string>
+    <string name="log_in">Log In</string>
+    <string name="phone_number">Mobile Number (10 digits)</string>
+    <string name="password">Password</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="register_here"><u>Don\'t have an account? Sign up now </u></string>
+    <string name="logo">logo</string>
+    <string name="forgot_password_details">Enter your registered mobile number and email address below:</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_address1">Email Address:</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="preference_file_name">Preferences</string>
+    <string name="exclamation">!</string>
+    <string name="mobile_number1">Mobile Number:</string>
+    <string name="delivery_address1">Delivery Address:</string>
+    <string name="log_out">Log Out</string>
+
+
+</resources>
